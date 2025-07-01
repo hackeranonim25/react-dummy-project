@@ -13,7 +13,7 @@ const Cart = (props) => {
 
   const cartItemRemoveHandler = (id) => {
     cartCtx.removeItem(id);
-    //new feature
+    //new feature1
   };
 
   const cartItemAddHandler = (item) => {
