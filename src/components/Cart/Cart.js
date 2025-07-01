@@ -4,7 +4,7 @@ import Modal from '../UI/Modal';
 import CartItem from './CartItem';
 import classes from './Cart.module.css';
 import CartContext from '../../store/cart-context';
-//123
+//1234
 
 const Cart = (props) => {
   const cartCtx = useContext(CartContext);
